@@ -13,7 +13,9 @@ Pull requests welcome please contact me before any large changes are requested
 ## Contact me
 Contact me with questions or suggestions at duncan@trombla.org or message me on github!
 
+## Link to App
 https://guarded-depths-36170.herokuapp.com/
+
 ## Application Media
 ![image](https://github.com/DTrombla/images/blob/main/noteHome.PNG)
 ![image](https://github.com/DTrombla/images/blob/main/Notes.PNG)
